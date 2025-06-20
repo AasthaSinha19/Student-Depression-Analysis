@@ -68,5 +68,6 @@ Connect with mental health apps or APIs for real-time mood tracking
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 **IDE:** Jupyter Notebook
 
+
 🚀 This project not only highlights the power of machine learning in understanding mental health, but also lays the foundation for building supportive tools that can make a real difference in students' lives.
 
